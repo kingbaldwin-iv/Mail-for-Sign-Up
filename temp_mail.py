@@ -1,7 +1,5 @@
 import requests
 from clint.textui import prompt
-from tabulate import tabulate
-import pandas as pd
 
 
 class Mail_Gen():
